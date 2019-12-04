@@ -30,20 +30,20 @@ Students by the end of the course will be able to ...
 
 | Class |          Date          |                 Topics                  |
 |:-----:|:----------------------:|:---------------------------------------:|
-|  1 |  Tuesday, January 21              | [Personal Finance 101 & Goal Setting] |
-|  2 | Thursday, January 23             | [Sleep & Relaxation] |
-|  3 |  Tuesday, January 28             | [Investing & Saving] |
-|  4 | Thursday, January 30             | [Spreadsheet Superpowers & Investing 2.0] |
-|  5 |  Tuesday, February 4             | [Credit and Insurance] |
-|  6 | Thursday, February 6             | [Negotiation] |
-|  7 |  Tuesday, February 11             | [Taxes, Contracts, 401k, oh my!] |
-|  8 | Thursday, February 13             | [Advanced Bash & Unix Utilities] |
-|  - |  Tuesday, February 18             | **President's Day (Observed)** |
-|  9 | Thursday, February 20             | [Nutrition] |
-|  10 |  Tuesday, February 25             | [Advanced Github] |
-|  11 | Thursday, February 27             | [Career Ramping into Companies] |
-|  12 |  Tuesday, March 3             | [Technical Ramping into Companies] |
-|  13 | Thursday, March 5             | Final Exams/Presentations |
+|  1 |  Tue, January 21              | [Personal Finance 101 & Goal Setting] |
+|  2 |  Thu, January 23              | [Sleep & Relaxation] |
+|  3 |  Tue, January 28              | [Investing & Saving] |
+|  4 |  Thu, January 30              | [Spreadsheet Superpowers & Investing 2.0] |
+|  5 |  Tue, February 4              | [Credit and Insurance] |
+|  6 |  Thu, February 6              | [Negotiation] |
+|  7 |  Tue, February 11             | [Taxes, Contracts, 401k, oh my!] |
+|  8 |  Thu, February 13             | [Advanced Bash & Unix Utilities] |
+|  - |  Tue, February 18             | **President's Day (Observed)** |
+|  9 |  Thu, February 20             | [Nutrition] |
+|  10 | Tue, February 25             | [Advanced Github] |
+|  11 | Thu, February 27             | [Career Ramping into Companies] |
+|  12 | Tue, March 3                 | [Technical Ramping into Companies] |
+|  13 | Thu, March 5                 | Final Exam |
 
 [Personal Finance 101 & Goal Setting]: https://docs.google.com/presentation/d/1Ofynbn2KTwRGBRU63g6QgsBSZFhE7GaYEoE7ed31K58/edit?usp=sharing
 [Sleep & Relaxation]: https://docs.google.com/presentation/d/10q__LTWLrQSCCttvK8jTdgiM7-JMCo6rsOcoddAC3RQ/edit#slide=id.g4ef902dad2_0_0
@@ -64,14 +64,14 @@ Students by the end of the course will be able to ...
 
 |               Quiz Topic                |          Date          |
 |:---------------------------------------:|:----------------------:|
-| Sleep & Relaxation                      | Tuesday, January 28    |
-| Investing & Saving                      | Thursday, January 30   |
-| Credit and Insurance                    | Thursday, February 6   |
-| Negotiation                             | Tuesday, February 11   |
-| Taxes, Contracts, 401k, oh my!          | Thursday, February 13  |
-| Advanced Bash & Unix Utilities          | Thursday, February 20  |
-| Nutrition                               | Tuesday, February 25   |
-| Advanced GitHub                         | Thursday, February 27  |
+| Sleep & Relaxation                      | Tue, January 28    |
+| Investing & Saving                      | Thu, January 30   |
+| Credit and Insurance                    | Thu, February 6   |
+| Negotiation                             | Tue, February 11   |
+| Taxes, Contracts, 401k, oh my!          | Thu, February 13  |
+| Advanced Bash & Unix Utilities          | Thu, February 20  |
+| Nutrition                               | Tue, February 25   |
+| Advanced GitHub                         | Thu, February 27  |
 
 ## Tutorials and Projects
 
