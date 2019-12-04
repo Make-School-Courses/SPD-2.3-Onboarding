@@ -62,6 +62,8 @@ Students by the end of the course will be able to ...
 
 ## Quizzes
 
+Most classes will be followed by a short quiz of the material in the following class. This will help ensure you’ve learned the content and help the instructor clarify misunderstandings. The final assessment will be the same content as the quizzes. **You can pass 70% of the quizzes or 70% of the final to earn credit for this portion of class!**
+
 |               Quiz Topic                |          Date          |
 |:---------------------------------------:|:----------------------:|
 | Sleep & Relaxation                      | Tue, January 28    |
