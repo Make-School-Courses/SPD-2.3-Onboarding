@@ -2,27 +2,15 @@
 
 ## Course Description
 
-This course prepares students to onboard to a development job and to navigate the time between joining a company and making valuable contributions to the codebase; commonly known as ramping. Building on best practices from company onboarding programs or Ramp Camps, the course covers common architectures and tools that large codebases use to operate including continuous integration with Travis CI, code reviews, server admin, and containers using Docker. 
+This course prepares students to onboard to a development job and to navigate the time between joining a company and making valuable contributions to the codebase; commonly known as ramping. Building on best practices from company onboarding programs or Ramp Camps, the course covers common architectures and tools that large codebases use to operate including continuous integration with Travis CI, code reviews, server admin.
 
-The course also covers topics one must master to have a successful life as a working professional:  personal finance and health and wellness. Students build their own personal financial model to inform their decisions reguarding their spending and savings. Students also gain an understanding of insurance, credit, taxation, compound interest, infliaction as well as other key concepts in personal finance.
-
-Additionally, the course covers science-backed practices to improve one's health and wellness. We devote a few class sessions to exposing students to best practices.
-
-## Course Specifics
-
-Weeks to Completion:  7 <br>
-Total Seat Hours:  37.5 hours <br>
-Total Out-of-Class Hours: 75 hours <br>
-Total Hours: 112.5 hours <br>
-Units:  3 units <br>
-Delivery Method:  Residential <br>
-Class Sessions:  14 classes, 7 labs
+The course also covers topics one must master to have a successful life as a working professional, such as personal finance, financial models, using spreadsheets, and the science of habit formation, health and wellness.
 
 ## Prerequisites:  
 
-SPD 2.2
+None
 
-## Learning Objectives
+## Learning Outcomes
 
 Students by the end of the course will be able to ...
 
@@ -36,57 +24,57 @@ Students by the end of the course will be able to ...
 
 ## Schedule
 
-**Course Dates:** Tuesday, January 22 – Thursday, March 7, 2019 (7 weeks)
+**Course Dates:** Tuesday, January 21 – Thursday, March 5, 2020 (7 weeks)
 
-**Class Times:** Tuesday and Thursday at 3:30–5:20pm (13 class sessions)
+**Class Times:** Tuesday and Thursday at 9:30–11:20am (13 class sessions)
 
 | Class |          Date          |                 Topics                  |
 |:-----:|:----------------------:|:---------------------------------------:|
-|  1 |  Tuesday, January 22              | [Lesson 1] |
-|  2 | Thursday, January 24             | [Lesson 2] |
-|  3 |  Tuesday, January 29             | [Lesson 3] |
-|  4 | Thursday, January 31             | [Lesson 4] |
-|  5 |  Tuesday, February 5             | [Lesson 5] |
-|  6 | Thursday, February 7             | [Lesson 6] |
-|  7 |  Tuesday, February 12             | [Lesson 7] |
-|  8 | Thursday, February 14             | [Lesson 8] |
-|  - |  Tuesday, February 19             | **President's Day (Observed)** |
-|  9 | Thursday, February 21             | [Lesson 9] |
-|  10 |  Tuesday, February 26             | [Lesson 10] |
-|  11 | Thursday, February 28             | [Lesson 11] |
-|  12 |  Tuesday, March 5             | [Lesson 13] |
-|  13 | Thursday, March 7             | Final Exams/Presentations |
+|  1 |  Tuesday, January 21              | [Personal Finance 101 & Goal Setting] |
+|  2 | Thursday, January 23             | [Sleep & Relaxation] |
+|  3 |  Tuesday, January 28             | [Investing & Saving] |
+|  4 | Thursday, January 30             | [Spreadsheet Superpowers & Investing 2.0] |
+|  5 |  Tuesday, February 4             | [Credit and Insurance] |
+|  6 | Thursday, February 6             | [Negotiation] |
+|  7 |  Tuesday, February 11             | [Taxes, Contracts, 401k, oh my!] |
+|  8 | Thursday, February 13             | [Advanced Bash & Unix Utilities] |
+|  - |  Tuesday, February 18             | **President's Day (Observed)** |
+|  9 | Thursday, February 20             | [Nutrition] |
+|  10 |  Tuesday, February 25             | [Advanced Github] |
+|  11 | Thursday, February 27             | [Career Ramping into Companies] |
+|  12 |  Tuesday, March 3             | [Technical Ramping into Companies] |
+|  13 | Thursday, March 5             | Final Exams/Presentations |
 
-[Lesson 1]: Lessons/Lesson1.md
-[Lesson 2]: Lessons/Lesson2.md
-[Lesson 3]: Lessons/Lesson3.md
-[Lesson 4]: Lessons/Lesson4.md
-[Lesson 5]: Lessons/Lesson5.md
-[Lesson 6]: Lessons/Lesson6.md
-[Lesson 7]: Lessons/Lesson7.md
-[Lesson 8]: Lessons/Lesson8.md
-[Lesson 9]: Lessons/Lesson9.md
-[Lesson 10]: Lessons/Lesson10.md
-[Lesson 11]: Lessons/Lesson11.md
-[Lesson 12]: Lessons/Lesson12.md
-[Lesson 13]: Lessons/Lesson13.md
+[Personal Finance 101 & Goal Setting]: https://docs.google.com/presentation/d/1Ofynbn2KTwRGBRU63g6QgsBSZFhE7GaYEoE7ed31K58/edit?usp=sharing
+[Sleep & Relaxation]: https://docs.google.com/presentation/d/10q__LTWLrQSCCttvK8jTdgiM7-JMCo6rsOcoddAC3RQ/edit#slide=id.g4ef902dad2_0_0
+[Investing & Saving]: https://docs.google.com/presentation/d/1e3sVZV06dBZucVxJqvVYfMu5EFr5TQM41SfmkNzgzRQ/edit?usp=sharing
+[Spreadsheet Superpowers & Investing 2.0]: https://docs.google.com/presentation/d/1K46cM8XLgBnqiYDN6TCAAtB1ZhS4tyT-d2OJ4SG8uEk/edit?usp=sharing
+[Credit and Insurance]: https://docs.google.com/document/d/11LnA_OGQyHxg5gormemHnYEnH9qDMh11Ohecx2lwBJA/edit?usp=sharing
+[Negotiation]: https://docs.google.com/document/d/12oqw1tXTSw5FJduDT8Q46WYW7dGp5Dp39QKK-xuYGR4/edit#heading=h.a3sjk9ojs0kf
+[Taxes, Contracts, 401k, oh my!]: https://docs.google.com/presentation/d/12LKnrjXZGEhib_ndnGr-Sabq9F0pvzsC42_45-wXE-I/edit?usp=sharing
+[Advanced Bash & Unix Utilities]: https://make.sc/bashsesh
+[Nutrition]: https://docs.google.com/presentation/d/1B-ndEUghpgaYZpdyKxJW3hag4hCzp99vHSih75eqzzw/edit?usp=sharing
+
+<!--- [Advanced Github]: -->
+
+[Career Ramping into Companies]: https://docs.google.com/presentation/d/18-mwtxM1Kpieww4UJwr-oOl_UQd1LbpXjUXrBef3ev4/edit#slide=id.p
+[Technical Ramping into Companies]: https://docs.google.com/presentation/d/1KjYBZzc_wksmHYsy1sgJJCVWjJwA_yRoxkiwWL0_Rys/edit?usp=sharing
+
+## Assignment Schedule 
+
+|                        Assignment                         | Date Assigned |   Due Date   |            Submission Form           |
+|:---------------------------------------------------------:|:-------------:|:------------:|:------------------------------------:|
+| Google Sheets Tutorial                                    |  Tue, Jan 21  |  Tue, Feb 4  | [Submit Assignment](makeschool.com)  |
+| [Money Dream + Thriving Wellness Blog Post] - DRAFT       |  Tue, Jan 28  |  Thu, Feb 20 | [Submit Assignment](makeschool.com)  |
+| [Money Dream + Thriving Wellness Blog Post] - FINAL       |  Tue, Jan 28  |  Thu, Feb 27 | [Submit Assignment](makeschool.com)  |
+
+<!-- [Google Sheets Tutorial]: -->
+[Money Dream + Thriving Wellness Blog Post]: https://docs.google.com/document/d/1Sl34ohVzgXykcUotFRrQeYohHm7HD4KoonvnBXLzhaw/edit
+
 
 ## Class Assignments
 
-### Tutorials & Projects
-Tutorials are to help you get started in a topic.  They are graded on completion only.:
-
-- [Personal Finance Tutorial](https://www.makeschool.com/academy/track/personal-finance-jx8) - step by step instructions to building a personal financial model. This tutorial also familiarizes you with the basics of using spreadsheets (e.g. Google Sheets, Microsoft Excel, Apple Numbers). Finishing this tutorial will make it easy to build your personal financial model (project below).
-  - Parts 1-5 **Due Thur Jan 31st**
-  - Parts 6-8 **Due Thurs Feb 7th**
-  - Parts 9-12 **Due Thurs Feb 14th**
-
-Projects
-
-- [Personal Financial Model](https://github.com/Make-School-Courses/SPD-2.3-Onboarding/blob/master/Assignments/personal-financial-model.md)
-  - [Evaluation](https://github.com/Make-School-Courses/SPD-2.3-Onboarding/blob/master/Assignments/personal-financial-model.md)
-- [Personal Health/Wellness blog post](https://github.com/Make-School-Courses/SPD-2.3-Onboarding/blob/master/Assignments/health-wellness-blog-post.md)
-  - [Evaluation](https://github.com/Make-School-Courses/SPD-2.3-Onboarding/blob/master/Assignments/personal-financial-model.md)
+Please refer to the Assignment Schedule section above for details on the **Google Sheets Tutorial** and **Money Dream + Thriving Wellness Blog Post** assignments
 
 
 ## Evaluation
@@ -98,21 +86,13 @@ To pass this course you must meet the following requirements:
 - Actively participate in class and abide by the attendance policy
 - Make up all classwork from all absences
 
-## Attendance
-Just like any job, attendance at Make School is required and a key component of your success. Attendance is being onsite from 9:30 to 5:30 each day, attending all scheduled sessions including classes, huddles, coaching and school meetings, and working in the study labs when not in a scheduled session. Working onsite allows you to learn with your peers, have access to support from TAs, instructors and others, and is vital to your learning.
-
-Attendance requirements for scheduled sessions are:
-- No more than two no call no shows per term in any scheduled session.
-- No more than four excused absences per term in any scheduled session.
-
-Failure to meet these requirements will result in a PIP (Participation Improvement Plan).  Failure to improve after the PIP is cause for not being allowed to continue at Make School. 
-
 
 ## Make School Course Policies
-[Academic Honesty](https://make.sc/academic-honesty)<br>
-[Accommodations for Students](https://make.sc/accommodations-for-students)<br>
-[Attendance Policy](https://make.sc/attendance-policy)
-[Diversity and Inclusion Policy](https://make.sc/diversity-and-inclusion-policy)<br>
-[Grading System](https://make.sc/grading-system)<br>
-[Title IX Policy](https://make.sc/title-ix-policy)<br>
-[Program Learning Outcomes](https://make.sc/program-learning-outcomes)
+- [Program Learning Outcomes](https://make.sc/program-learning-outcomes) - What you will achieve after finishing Make School, all courses are designed around these outcomes.
+- [Grading System](https://make.sc/grading-system) - How grading is done at Make School
+- [Diversity and Inclusion Statement](https://make.sc/diversity-and-inclusion-statement) - Learn about Diversity and Inclusion at Make School
+- [Academic Honesty](https://make.sc/academic-honesty-policy) - Our policies around plagerism, cheating, and other forms of academic misconduct 
+- [Attendance Policy](https://make.sc/attendance-policy) - What we expect from you in terms of attendance for all classes at Make School
+- [Course Credit Policy](https://make.sc/course-credit-policy) - Our policy for how you obtain credit for your courses
+- [Disability Services (Academic Accommodations)](https://make.sc/disability-services) - Services and accommodations we provide for students
+- [Student Handbook](https://make.sc/student-handbook) - Guidelines, policies, and resources for all Make School students
