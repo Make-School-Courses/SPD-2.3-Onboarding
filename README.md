@@ -60,22 +60,30 @@ Students by the end of the course will be able to ...
 [Career Ramping into Companies]: https://docs.google.com/presentation/d/18-mwtxM1Kpieww4UJwr-oOl_UQd1LbpXjUXrBef3ev4/edit#slide=id.p
 [Technical Ramping into Companies]: https://docs.google.com/presentation/d/1KjYBZzc_wksmHYsy1sgJJCVWjJwA_yRoxkiwWL0_Rys/edit?usp=sharing
 
-## Assignment Schedule 
+## Quizzes
+
+|               Quiz Topic                |          Date          |
+|:---------------------------------------:|:----------------------:|
+| Sleep & Relaxation                      | Tuesday, January 28    |
+| Investing & Saving                      | Thursday, January 30   |
+| Credit and Insurance                    | Thursday, February 6   |
+| Negotiation                             | Tuesday, February 11   |
+| Taxes, Contracts, 401k, oh my!          | Thursday, February 13  |
+| Advanced Bash & Unix Utilities          | Thursday, February 20  |
+| Nutrition                               | Tuesday, February 25   |
+| Advanced GitHub                         | Thursday, February 27  |
+
+## Tutorials and Projects
 
 |                        Assignment                         | Date Assigned |   Due Date   |            Submission Form           |
 |:---------------------------------------------------------:|:-------------:|:------------:|:------------------------------------:|
-| Google Sheets Tutorial                                    |  Tue, Jan 21  |  Tue, Feb 4  | [Submit Assignment](makeschool.com)  |
-| [Money Dream + Thriving Wellness Blog Post] - DRAFT       |  Tue, Jan 28  |  Thu, Feb 20 | [Submit Assignment](makeschool.com)  |
-| [Money Dream + Thriving Wellness Blog Post] - FINAL       |  Tue, Jan 28  |  Thu, Feb 27 | [Submit Assignment](makeschool.com)  |
+| Google Sheets Tutorial                                    |  Tue, Jan 21  |  Tue, Feb 4  | [Submit Assignment]  |
+| [Money Dream + Thriving Wellness Blog Post] - DRAFT       |  Tue, Jan 28  |  Thu, Feb 20 | [Submit Assignment]  |
+| [Money Dream + Thriving Wellness Blog Post] - FINAL       |  Tue, Jan 28  |  Thu, Feb 27 | [Submit Assignment]  |
 
 <!-- [Google Sheets Tutorial]: -->
 [Money Dream + Thriving Wellness Blog Post]: https://docs.google.com/document/d/1Sl34ohVzgXykcUotFRrQeYohHm7HD4KoonvnBXLzhaw/edit
-
-
-## Class Assignments
-
-Please refer to the Assignment Schedule section above for details on the **Google Sheets Tutorial** and **Money Dream + Thriving Wellness Blog Post** assignments
-
+[Submit Assignment]: https://docs.google.com/spreadsheets/d/1SMT94H8d4Adv8LPecLSwXc9jDxCXYKmnBU_xs3jHTJ8/edit#gid=1132648801
 
 ## Evaluation
 To pass this course you must meet the following requirements:
