@@ -31,14 +31,14 @@ Students by the end of the course will be able to ...
 | Class |          Date          |                 Topics                  |
 |:-----:|:----------------------:|:---------------------------------------:|
 |  1 |  Tue, January 21              | [Personal Finance 101 & Goal Setting] |
-|  2 |  Thu, January 23              | [Sleep & Relaxation] |
-|  3 |  Tue, January 28              | [Investing & Saving] |
-|  4 |  Thu, January 30              | [Spreadsheet Superpowers & Investing 2.0] |
-|  5 |  Tue, February 4              | [Credit and Insurance] |
-|  6 |  Thu, February 6              | [Negotiation] |
-|  7 |  Tue, February 11             | [Taxes, Contracts, 401k, oh my!] |
-|  8 |  Thu, February 13             | [Advanced Bash & Unix Utilities] |
-|  - |  Tue, February 18             | **President's Day (Observed)** |
+|  - |  Thu, January 23              | **NO CLASS** - Company Offsite |
+|  2 |  Tue, January 28              | [Sleep & Relaxation] |
+|  3 |  Thu, January 30              | [Investing & Saving] |
+|  4 |  Tue, February 4              | [Spreadsheet Superpowers & Investing 2.0] |
+|  5 |  Thu, February 6              | [Credit and Insurance] |
+|  6 |  Tue, February 11             | [Negotiation] |
+|  7 |  Thu, February 13             | [Taxes, Contracts, 401k, oh my!] |
+|  8 |  Tue, February 18             | [Advanced Bash & Unix Utilities] |
 |  9 |  Thu, February 20             | [Nutrition] |
 |  10 | Tue, February 25             | [Advanced Github] |
 |  11 | Thu, February 27             | [Career Ramping into Companies] |
@@ -66,11 +66,11 @@ Most classes will be followed by a short quiz of the material in the following c
 
 |               Quiz Topic                |          Date          |
 |:---------------------------------------:|:----------------------:|
-| Sleep & Relaxation                      | Tue, January 28    |
-| Investing & Saving                      | Thu, January 30   |
-| Credit and Insurance                    | Thu, February 6   |
-| Negotiation                             | Tue, February 11   |
-| Taxes, Contracts, 401k, oh my!          | Thu, February 13  |
+| Sleep & Relaxation                      | Thu, January 30    |
+| Investing & Saving                      | Tue, February 4   |
+| Credit and Insurance                    | Tue, February 11   |
+| Negotiation                             | Thu, February 13   |
+| Taxes, Contracts, 401k, oh my!          | Tue, February 18  |
 | Advanced Bash & Unix Utilities          | Thu, February 20  |
 | Nutrition                               | Tue, February 25   |
 | Advanced GitHub                         | Thu, February 27  |
