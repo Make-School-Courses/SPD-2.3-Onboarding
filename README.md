@@ -79,7 +79,9 @@ Most classes will be followed by a short quiz of the material in the following c
 
 |                        Assignment                         | Date Assigned |   Due Date   |            Submission Form           |
 |:---------------------------------------------------------:|:-------------:|:------------:|:------------------------------------:|
-| Google Sheets Tutorial                                    |  Tue, Jan 21  |  Tue, Feb 4  | [Submit Assignment]  |
+| Set 3 financial goals                                    |  Tue, Jan 21  |  Tue, Jan 21  | [Submit Assignment]  |
+| Google Sheets Tutorial Challenges 1 & 2                                   |  Tue, Jan 21  |  Tue, Jan 28  | [Submit Assignment]  |
+| Google Sheets Tutorial Challenges 3                                 |  Tue, Jan 21  |  Tue, Feb 4  | [Submit Assignment]  |
 | [Money Dream + Thriving Wellness Blog Post] - DRAFT       |  Tue, Jan 28  |  Thu, Feb 20 | [Submit Assignment]  |
 | [Money Dream + Thriving Wellness Blog Post] - FINAL       |  Tue, Jan 28  |  Thu, Feb 27 | [Submit Assignment]  |
 
