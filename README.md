@@ -30,30 +30,30 @@ Students by the end of the course will be able to ...
 
 | Class |          Date          |                 Topics                  |
 |:-----:|:----------------------:|:---------------------------------------:|
-|  1 |  Tue, January 21              | [Personal Finance 101 & Goal Setting] |
+|  1 |  Tue, January 21              | [Becoming Wealthy 101 & Goal Setting] |
 |  - |  Thu, January 23              | **NO CLASS** - Company Offsite |
-|  2 |  Tue, January 28              | [Sleep & Relaxation] |
+|  2 |  Tue, January 28              | [Endless Energy: Sleep & Relaxation] |
 |  3 |  Thu, January 30              | [Investing & Saving] |
 |  4 |  Tue, February 4              | [Spreadsheet Superpowers & Investing 2.0] |
-|  5 |  Thu, February 6              | [Credit and Insurance] |
-|  6 |  Tue, February 11             | [Negotiation] |
+|  5 |  Thu, February 6              | [Win the Credit and Insurance Game] |
+|  6 |  Tue, February 11             | [Negotiate like a CEO] |
 |  7 |  Thu, February 13             | [Taxes, Contracts, 401k, oh my!] |
 |  8 |  Tue, February 18             | [Advanced Bash & Unix Utilities] |
-|  9 |  Thu, February 20             | [Nutrition] |
+|  9 |  Thu, February 20             | [Food is a Superpower] |
 |  10 | Tue, February 25             | [Advanced Github] |
 |  11 | Thu, February 27             | [Career Ramping into Companies] |
 |  12 | Tue, March 3                 | [Technical Ramping into Companies] |
 |  13 | Thu, March 5                 | Final Exam |
 
-[Personal Finance 101 & Goal Setting]: https://docs.google.com/presentation/d/1Ofynbn2KTwRGBRU63g6QgsBSZFhE7GaYEoE7ed31K58/edit?usp=sharing
-[Sleep & Relaxation]: https://docs.google.com/presentation/d/10q__LTWLrQSCCttvK8jTdgiM7-JMCo6rsOcoddAC3RQ/edit#slide=id.g4ef902dad2_0_0
+[Becoming Wealthy 101 & Goal Setting]: https://docs.google.com/presentation/d/1Ofynbn2KTwRGBRU63g6QgsBSZFhE7GaYEoE7ed31K58/edit?usp=sharing
+[Endless Energy: Sleep & Relaxation]: https://docs.google.com/presentation/d/10q__LTWLrQSCCttvK8jTdgiM7-JMCo6rsOcoddAC3RQ/edit#slide=id.g4ef902dad2_0_0
 [Investing & Saving]: https://docs.google.com/presentation/d/1e3sVZV06dBZucVxJqvVYfMu5EFr5TQM41SfmkNzgzRQ/edit?usp=sharing
 [Spreadsheet Superpowers & Investing 2.0]: https://docs.google.com/presentation/d/1K46cM8XLgBnqiYDN6TCAAtB1ZhS4tyT-d2OJ4SG8uEk/edit?usp=sharing
-[Credit and Insurance]: https://docs.google.com/document/d/11LnA_OGQyHxg5gormemHnYEnH9qDMh11Ohecx2lwBJA/edit?usp=sharing
-[Negotiation]: https://docs.google.com/document/d/12oqw1tXTSw5FJduDT8Q46WYW7dGp5Dp39QKK-xuYGR4/edit#heading=h.a3sjk9ojs0kf
+[Win the Credit and Insurance Game]: https://docs.google.com/document/d/11LnA_OGQyHxg5gormemHnYEnH9qDMh11Ohecx2lwBJA/edit?usp=sharing
+[Negotiate like a CEO]: https://docs.google.com/document/d/12oqw1tXTSw5FJduDT8Q46WYW7dGp5Dp39QKK-xuYGR4/edit#heading=h.a3sjk9ojs0kf
 [Taxes, Contracts, 401k, oh my!]: https://docs.google.com/presentation/d/12LKnrjXZGEhib_ndnGr-Sabq9F0pvzsC42_45-wXE-I/edit?usp=sharing
 [Advanced Bash & Unix Utilities]: https://make.sc/bashsesh
-[Nutrition]: https://docs.google.com/presentation/d/1B-ndEUghpgaYZpdyKxJW3hag4hCzp99vHSih75eqzzw/edit?usp=sharing
+[Food is a Superpower]: https://docs.google.com/presentation/d/1B-ndEUghpgaYZpdyKxJW3hag4hCzp99vHSih75eqzzw/edit?usp=sharing
 
 <!--- [Advanced Github]: -->
 
