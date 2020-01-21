@@ -31,7 +31,7 @@ Students by the end of the course will be able to ...
 | Class |          Date          |                 Topics                  |
 |:-----:|:----------------------:|:---------------------------------------:|
 |  1 |  Tue, January 21              | [Becoming Wealthy 101 & Goal Setting] |
-|  - |  Thu, January 23              | **NO CLASS** - Company Offsite |
+|  - |  Thu, January 23              | TBD |
 |  2 |  Tue, January 28              | [Endless Energy: Sleep & Relaxation] |
 |  3 |  Thu, January 30              | [Investing & Saving] |
 |  4 |  Tue, February 4              | [Spreadsheet Superpowers & Investing 2.0] |
