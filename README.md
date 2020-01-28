@@ -32,8 +32,8 @@ Students by the end of the course will be able to ...
 |:-----:|:----------------------:|:---------------------------------------:|
 |  1 |  Tue, January 21              | [Becoming Wealthy 101 & Goal Setting] |
 |  - |  Thu, January 23              | [Endless Energy: Sleep & Relaxation] |
-|  2 |  Tue, January 28              |  TBD ||
-|  3 |  Thu, January 30              | [Investing & Saving] |
+|  2 |  Tue, January 28              |  [Investing & Saving] ||
+|  3 |  Thu, January 30              |  |
 |  4 |  Tue, February 4              | [Spreadsheet Superpowers & Investing 2.0] |
 |  5 |  Thu, February 6              | [Win the Credit and Insurance Game] |
 |  6 |  Tue, February 11             | [Negotiate like a CEO] |
