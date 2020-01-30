@@ -32,8 +32,8 @@ Students by the end of the course will be able to ...
 |:-----:|:----------------------:|:---------------------------------------:|
 |  1 |  Tue, January 21              | [Becoming Wealthy 101 & Goal Setting] |
 |  - |  Thu, January 23              | [Endless Energy: Sleep & Relaxation] |
-|  2 |  Tue, January 28              |  [Investing & Saving] ||
-|  3 |  Thu, January 30              |  |
+|  2 |  Tue, January 28              |  [Investing & Saving 101] ||
+|  3 |  Thu, January 30              |  [Investing: Platforms and Assets]|
 |  4 |  Tue, February 4              | [Spreadsheet Superpowers & Investing 2.0] |
 |  5 |  Thu, February 6              | [Win the Credit and Insurance Game] |
 |  6 |  Tue, February 11             | [Negotiate like a CEO] |
@@ -47,14 +47,14 @@ Students by the end of the course will be able to ...
 
 [Becoming Wealthy 101 & Goal Setting]: https://docs.google.com/presentation/d/1Ofynbn2KTwRGBRU63g6QgsBSZFhE7GaYEoE7ed31K58/edit?usp=sharing
 [Endless Energy: Sleep & Relaxation]: https://docs.google.com/presentation/d/10q__LTWLrQSCCttvK8jTdgiM7-JMCo6rsOcoddAC3RQ/edit#slide=id.g4ef902dad2_0_0
-[Investing & Saving]: https://docs.google.com/presentation/d/1e3sVZV06dBZucVxJqvVYfMu5EFr5TQM41SfmkNzgzRQ/edit?usp=sharing
+[Investing & Saving 101]: https://docs.google.com/presentation/d/1e3sVZV06dBZucVxJqvVYfMu5EFr5TQM41SfmkNzgzRQ/edit?usp=sharing
 [Spreadsheet Superpowers & Investing 2.0]: https://docs.google.com/presentation/d/1K46cM8XLgBnqiYDN6TCAAtB1ZhS4tyT-d2OJ4SG8uEk/edit?usp=sharing
 [Win the Credit and Insurance Game]: https://docs.google.com/document/d/11LnA_OGQyHxg5gormemHnYEnH9qDMh11Ohecx2lwBJA/edit?usp=sharing
 [Negotiate like a CEO]: https://docs.google.com/document/d/12oqw1tXTSw5FJduDT8Q46WYW7dGp5Dp39QKK-xuYGR4/edit#heading=h.a3sjk9ojs0kf
 [Taxes, Contracts, 401k, oh my!]: https://docs.google.com/presentation/d/12LKnrjXZGEhib_ndnGr-Sabq9F0pvzsC42_45-wXE-I/edit?usp=sharing
 [Advanced Bash & Unix Utilities]: https://make.sc/bashsesh
 [Food is a Superpower]: https://docs.google.com/presentation/d/1B-ndEUghpgaYZpdyKxJW3hag4hCzp99vHSih75eqzzw/edit?usp=sharing
-
+[Investing: Platforms and Assets]: https://docs.google.com/presentation/d/1N8TIjDtEkbbqLhyzT3---ODxqaKVysnn-ijc8QwQ1XA/edit#slide=id.g4cf79cf4e3_0_202
 <!--- [Advanced Github]: -->
 
 [Career Ramping into Companies]: https://docs.google.com/presentation/d/18-mwtxM1Kpieww4UJwr-oOl_UQd1LbpXjUXrBef3ev4/edit#slide=id.p
