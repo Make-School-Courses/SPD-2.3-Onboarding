@@ -67,7 +67,7 @@ Most classes will be followed by a short quiz of the material in the following c
 |               Quiz Topic                |          Date          |
 |:---------------------------------------:|:----------------------:|
 | Sleep & Relaxation                      | Thu, January 30    |
-| Investing & Saving                      | Tue, February 4   |
+| Investing & Saving                      | Tue, February 6   |
 | Credit and Insurance                    | Tue, February 11   |
 | Negotiation                             | Thu, February 13   |
 | Taxes, Contracts, 401k, oh my!          | Tue, February 18  |
