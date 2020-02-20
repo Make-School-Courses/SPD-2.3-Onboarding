@@ -39,7 +39,7 @@ Students by the end of the course will be able to ...
 |  6 |  Tue, February 11             | [Negotiate like a CEO] |
 |  7 |  Thu, February 13             | [Taxes, Contracts, 401k, oh my!] |
 |  8 |  Tue, February 18             | [Advanced Bash & Unix Utilities] |
-|  9 |  Thu, February 20             | [Food is a Superpower] |
+|  9 |  Thu, February 20             | [Exercise] + [Food is a Superpower] |
 |  10 | Tue, February 25             | [Advanced Github] |
 |  11 | Thu, February 27             | [Career Ramping into Companies] |
 |  12 | Tue, March 3                 | [Technical Ramping into Companies] |
@@ -53,6 +53,7 @@ Students by the end of the course will be able to ...
 [Negotiate like a CEO]: https://docs.google.com/document/d/12oqw1tXTSw5FJduDT8Q46WYW7dGp5Dp39QKK-xuYGR4/edit#heading=h.a3sjk9ojs0kf
 [Taxes, Contracts, 401k, oh my!]: https://docs.google.com/presentation/d/12LKnrjXZGEhib_ndnGr-Sabq9F0pvzsC42_45-wXE-I/edit?usp=sharing
 [Advanced Bash & Unix Utilities]: https://make.sc/bashsesh
+[Exercise]: https://make.sc/exercise
 [Food is a Superpower]: https://docs.google.com/presentation/d/1B-ndEUghpgaYZpdyKxJW3hag4hCzp99vHSih75eqzzw/edit?usp=sharing
 [Investing: Platforms and Assets]: https://docs.google.com/presentation/d/1N8TIjDtEkbbqLhyzT3---ODxqaKVysnn-ijc8QwQ1XA/edit#slide=id.g4cf79cf4e3_0_202
 <!--- [Advanced Github]: -->
