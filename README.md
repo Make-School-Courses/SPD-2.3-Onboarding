@@ -56,7 +56,7 @@ Students by the end of the course will be able to ...
 [Exercise]: https://make.sc/exercise
 [Food is a Superpower]: https://docs.google.com/presentation/d/1B-ndEUghpgaYZpdyKxJW3hag4hCzp99vHSih75eqzzw/edit?usp=sharing
 [Investing: Platforms and Assets]: https://docs.google.com/presentation/d/1N8TIjDtEkbbqLhyzT3---ODxqaKVysnn-ijc8QwQ1XA/edit#slide=id.g4cf79cf4e3_0_202
-<!--- [Advanced Github]: -->
+[Advanced Github]: https://docs.google.com/document/d/1S2vixbRF0PaznGaYUL_Y2ObPUz3AY-LUg3nCYYWhz24/edit
 
 [Career Ramping into Companies]: https://docs.google.com/presentation/d/18-mwtxM1Kpieww4UJwr-oOl_UQd1LbpXjUXrBef3ev4/edit#slide=id.p
 [Technical Ramping into Companies]: https://docs.google.com/presentation/d/1KjYBZzc_wksmHYsy1sgJJCVWjJwA_yRoxkiwWL0_Rys/edit?usp=sharing
