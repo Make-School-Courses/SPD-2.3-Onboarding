@@ -59,7 +59,7 @@ Students by the end of the course will be able to ...
 [Advanced Github]: https://docs.google.com/document/d/1S2vixbRF0PaznGaYUL_Y2ObPUz3AY-LUg3nCYYWhz24/edit
 
 [Career Ramping into Companies]: https://docs.google.com/presentation/d/18-mwtxM1Kpieww4UJwr-oOl_UQd1LbpXjUXrBef3ev4/edit#slide=id.p
-[Technical Ramping into Companies]: https://docs.google.com/presentation/d/1KjYBZzc_wksmHYsy1sgJJCVWjJwA_yRoxkiwWL0_Rys/edit?usp=sharing
+[Technical Ramping into Companies]: http://make.sc/spd2.3-onboarding
 
 ## Quizzes
 
