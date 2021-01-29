@@ -1,3 +1,5 @@
+# Note: For Testing and Architecture course go to [**SPD 2.31**](https://github.com/Make-School-Courses/SPD-2.31-Testing-and-Architecture)
+
 # SPD 2.3 Onboarding
 
 ## Course Description
